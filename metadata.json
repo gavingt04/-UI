@@ -1,0 +1,6 @@
+{
+  "name": "智动AI教练 (AI Fitness Coach)",
+  "description": "An AI-powered fitness coaching application providing real-time form correction, personalized workout plans, and detailed progress tracking.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": []
+}
